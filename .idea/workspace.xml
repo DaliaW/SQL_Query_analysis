@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b675c3dc-bd0d-4c65-a259-e3b7fa9f4c12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bmYwOMGt9pnqLlEOVr1faRkrpk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/postgresql-jdbc.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dalia\Documents\mini-project-2\MP2DataGenerator\MP2DataGenerator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Schema2">
+    <configuration name="Schema2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Schema2" />
+      <module name="MP2DataGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="postgresql-jdbc.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/postgresql-jdbc.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Schema2" />
+        <item itemvalue="JAR Application.postgresql-jdbc.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b675c3dc-bd0d-4c65-a259-e3b7fa9f4c12" name="Default Changelist" comment="" />
+      <created>1589238973510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589238973510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1589239181104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589239181104" />
+    <state x="577" y="167" key="FileChooserDialogImpl" timestamp="1589240481011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589240481011" />
+    <state width="1493" height="529" key="GridCell.Tab.0.bottom" timestamp="1589560113449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="529" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589560113449" />
+    <state width="1493" height="529" key="GridCell.Tab.0.center" timestamp="1589560113448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="529" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589560113448" />
+    <state width="1493" height="529" key="GridCell.Tab.0.left" timestamp="1589560113448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="529" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589560113448" />
+    <state width="1493" height="529" key="GridCell.Tab.0.right" timestamp="1589560113448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="529" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589560113448" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1589240522464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589240522464" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589510645917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589287658553" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589510645917" />
+  </component>
+</project>
